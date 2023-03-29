@@ -12,4 +12,4 @@ http://movielab2k21.000webhostapp.com/movies.php
 • Then an e mail with the e-ticket will be send to your account.
 
 
-PS. Everything in the site is being build by me and and 3 other friends in a university project which was rated 10/10, enjoy :)
+PS. Everything in the site is being built by me and and 3 other friends in a university project which was rated 10/10, enjoy :)
