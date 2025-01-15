@@ -7,7 +7,7 @@ http://movielab2k21.000webhostapp.com/movies.php
 
 • You can also see a mini preview of the movie, actors, genre, a discription and even a trailer so you can get an idea about the whole movie.
 
-• After you decide what you want to see you can creat an account or log in to an existing one if you already registered before and book a ticket about your pref movie.
+• After you decide what you want to see you can create an account or log in to an existing one if you already registered before and book a ticket about your pref movie.
 
 • Then an e mail with the e-ticket will be send to your account.
 
